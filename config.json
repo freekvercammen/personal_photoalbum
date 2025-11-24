@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "© 2025 Freek Vercammen. All images and content on this website are the exclusive property of the owner and may not be copied, reproduced, distributed, or used in any form without explicit written permission.",
   "usage-stats": false
 }
